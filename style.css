@@ -28,7 +28,6 @@ img{
     border-radius: 5%;
     align-self: center;
 }
-
 h2,
 p {
     max-width: 250px;
@@ -43,9 +42,3 @@ p{
     color: hsl(220, 15%, 55%);
     font-weight: 400;
 }
-
-
-
- 
-
-
